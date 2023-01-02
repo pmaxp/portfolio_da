@@ -21,3 +21,7 @@
 - `DeviceIDHash` — уникальный идентификатор пользователя;
 - `EventTimestamp` — время события;
 - `ExpId` — номер эксперимента: 246 и 247 — контрольные группы, а 248 — экспериментальная.
+
+[Тетратка Jupyter HTML](https://github.com/pmaxp/portfolio_da/blob/main/Success_Game/Success_Game.html)
+
+[Тетратка Jupyter](https://github.com/pmaxp/portfolio_da/blob/main/Success_Game/Success_Game.ipynb)
