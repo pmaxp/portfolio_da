@@ -23,20 +23,20 @@
 <br />
 
 ### Основные инструменты:
-<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
-<img align="left" alt="Pandas" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" />
-<img align="left" alt="SQL" width="26px" src="https://www.svgrepo.com/download/331760/sql-database-generic.svg" />
-<img align="left" alt="Numpy" width="26px" src="https://www.svgrepo.com/download/354127/numpy.svg" />
-<img align="left" alt="Seaborn" width="26px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />
-<img align="left" alt="Scipy" width="26px" src="https://scipy.org/images/logo.svg" />
+<img align="left" title="Python" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
+<img align="left" title="Pandas" alt="Pandas" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" />
+<img align="left" title="SQL" alt="SQL" width="26px" src="https://www.svgrepo.com/download/331760/sql-database-generic.svg" />
+<img align="left" title="Numpy" alt="Numpy" width="26px" src="https://www.svgrepo.com/download/354127/numpy.svg" />
+<img align="left" title="Seaborn" alt="Seaborn" width="26px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />
+<img align="left" title="Scipy" alt="Scipy" width="26px" src="https://scipy.org/images/logo.svg" />
 <br />
 
 
 <br />
 
 ### Мои контакты:
-[<img align="left" alt="pmaxp | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" />][Telegram]
-[<img align="left" alt="pmaxp | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][Gmail]
+[<img align="left" alt="pmaxp | Telegram" title="Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" />][Telegram]
+[<img align="left" alt="pmaxp | Telegram" title="Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][Gmail]
 
 <br />
 
