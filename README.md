@@ -22,7 +22,7 @@
 
 <br />
 
-### Languages and Tools DA:
+### Основные инструменты:
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
 <img align="left" alt="Pandas" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" />
 <img align="left" alt="SQL" width="26px" src="https://www.svgrepo.com/download/331760/sql-database-generic.svg" />
