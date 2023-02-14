@@ -19,8 +19,11 @@
 | 11.   | [Исследование объявлений о продаже квартир в Санкт-Петербурге и области](https://github.com/pmaxp/portfolio_da/tree/main/Sale_Apartments_Petersburg) | Исследовал архив объявлений о продаже объектов недвижимости в Санкт-Петербурге и Ленинградской области.</br> Цель определять рыночную стоимость недвижимость. | python, pandas, matplotlib |
 | 12.   | [Исследование надежности заемщиков](https://github.com/pmaxp/portfolio_da/tree/main/Investigation_Reliability_Borrowers) | Анализ данные о клиентах банка, с целью установить влияние различных параметров на погашения кредита в срок.             | python, pandas | 
 
+<br />
 
-
+[<img align="middle" title="Python" alt="Диплом Яндекс Практикума" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Icons8_flat_diploma_1.svg/1024px-Icons8_flat_diploma_1.svg.png" />
+Диплом Яндекс Практикума](https://github.com/pmaxp/portfolio_da/blob/main/Maksim_Popov_20232DA00087_RUS.pdf)
+<br />
 
 <br />
 
