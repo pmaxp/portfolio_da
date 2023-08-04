@@ -1,10 +1,13 @@
 # Привет! Меня зовут Максим Попов - pmaxp 👋
 
- ## Я Аналитик Данных!
+ ## Я Аналитик!
 
 <br />
 
-### [<span style="font-size=20px">🎓📃</span> Диплом об подготовки от Яндекс Практикума](https://github.com/pmaxp/portfolio_da/blob/main/Maksim_Popov_20232DA00087_RUS.pdf)
+### [<span style="font-size=20px">🎓📃</span> Диплом "Аналитика данных" от Яндекс Практикум](https://github.com/pmaxp/portfolio_da/blob/main/Maksim_Popov_20232DA00087_RUS.pdf)
+<br />
+
+### [<span style="font-size=20px">🎓📃</span> Сертификат по курсу SQL(Redash) от carpov.courses](https://github.com/pmaxp/portfolio_da/blob/main/carpov_courses_simulator_SQL_RUS.pdf)
 <br />
 
 Здесь собраны некоторые реализованные проекты
