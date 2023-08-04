@@ -37,6 +37,8 @@
 <img align="left" title="Numpy" alt="Numpy" width="26px" src="https://www.svgrepo.com/download/354127/numpy.svg" />
 <img align="left" title="Seaborn" alt="Seaborn" width="26px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />
 <img align="left" title="Scipy" alt="Scipy" width="26px" src="https://scipy.org/images/logo.svg" />
+<img align="left" title="Tableau" alt="Tableau" width="26px" src="https://raw.githubusercontent.com/pmaxp/pmaxp/main/img/tableau.png" />
+<img align="left" title="Power_BI" alt="Power_BI" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
 <br />
 
 
